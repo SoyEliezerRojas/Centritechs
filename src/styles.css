@@ -21,17 +21,23 @@ main #home{
     margin-top: 15vh !important;
     min-height: 60vh;
 }
+main #home h1{
+    font-weight: 400;
+}
 main #home img{
     width: 100%;
 }
 
-main #about-us{
+main #about-us,main #products{
     background-color: #0087c1;
-    min-height: 50vh;
 }
 
 main #about-us img{
     width: 100%;
+}
+main #about-us p{
+    font-weight: lighter;
+    font-size: 170%;
 }
 @media (max-width: 900px){
     #header nav img{
