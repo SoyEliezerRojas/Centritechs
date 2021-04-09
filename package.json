@@ -1,0 +1,18 @@
+{
+  "name": "centritechs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "bild": "npx webpack --mode production"
+  },
+  "author": "Eliezer Rojas",
+  "license": "ISC",
+  "dependencies": {
+    "cli": "^1.0.1",
+    "css-loader": "^5.2.0",
+    "html-webpack-plugin": "^5.3.1",
+    "style-loader": "^2.0.0",
+    "webpack": "^5.31.0"
+  }
+}
