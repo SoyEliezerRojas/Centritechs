@@ -8,6 +8,7 @@
   },
   "author": "Eliezer Rojas",
   "license": "ISC",
+  "keywords":"html, css, javascript,landing page",
   "dependencies": {
     "cli": "^1.0.1",
     "css-loader": "^5.2.0",
