@@ -1,3 +1,8 @@
+
+.text-normal{
+    font-size: 170%;
+    font-weight: lighter;
+}
 #header nav{
     box-shadow: 0px 2px 9px 10px rgb(60 64 67 / 20%);
     border-bottom: 1px solid #dedede;
@@ -35,9 +40,15 @@ main #about-us,main #products{
 main #about-us img{
     width: 100%;
 }
-main #about-us p{
-    font-weight: lighter;
-    font-size: 170%;
+#contact .contact-container{
+    min-height: 200px;
+    width: 30%;
+    border-radius: 15px;
+}
+#contact .fas,.fab{
+    color: #0087c1;
+    font-size: 270%;
+    margin-top: 15%;
 }
 @media (max-width: 900px){
     #header nav img{
