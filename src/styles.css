@@ -40,6 +40,9 @@ main #about-us,main #products{
 main #about-us img{
     width: 100%;
 }
+main #about-us .text-normal{
+    text-transform: justify;
+}
 #contact .contact-container{
     min-height: 200px;
     width: 350px;
@@ -56,5 +59,10 @@ main #about-us img{
 @media (max-width: 900px){
     #header nav img{
         width: 150%;
+    }
+}
+@media (max-width: 480px){
+    main #home{
+        margin-top: 0 !important;
     }
 }
