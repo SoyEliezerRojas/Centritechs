@@ -50,6 +50,9 @@ main #about-us img{
     font-size: 270%;
     margin-top: 15%;
 }
+#contact .phone-description{
+    font-size: 80%;
+}
 @media (max-width: 900px){
     #header nav img{
         width: 150%;
