@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "bild": "npx webpack --mode production"
+    "build": "npx webpack --mode production"
   },
   "author": "Eliezer Rojas",
   "license": "ISC",
